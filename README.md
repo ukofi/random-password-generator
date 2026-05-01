@@ -2,10 +2,6 @@
 
 A clean, browser-based password generator built with vanilla HTML, CSS, and JavaScript. Generates a secure 12-character random password at the click of a button and copies it to the clipboard instantly.
 
-## Live Preview
-
-![Password Generator Screenshot](screenshot.png)
-
 ## Features
 
 - Generates a random 12-character password using uppercase letters, lowercase letters, numbers, and special characters
